@@ -4,7 +4,7 @@ Control RGB LED using MQTT and NodeRED Dashboard using NodeMCU
 
 ## Flow diagram of the Project
 
-<img src="./control_RGB_led_nodemcu_nodered_bg_black.drawio.svg" width=100% height=40%>
+<img src="./image1.svg" width=100% height=40%>
 
 ### Step 1: Install the Required Libraries
 - Open an Arduino IDE --> Tools --> Manage Libraries
